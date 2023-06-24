@@ -1,0 +1,11 @@
+__pycache__/
+.vscode/
+*venv*/
+*examples*/
+
+build/
+dist/
+sdist/
+wheels/
+*.egg
+*.egg-info

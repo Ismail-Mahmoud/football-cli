@@ -1,0 +1,2065 @@
+{
+    "URU": {
+        "758": {
+            "full_name": "Uruguay",
+            "short_name": "Uruguay",
+            "country": "Uruguay"
+        }
+    },
+    "GER": {
+        "759": {
+            "full_name": "Germany",
+            "short_name": "Germany",
+            "country": "Germany"
+        }
+    },
+    "ESP": {
+        "760": {
+            "full_name": "Spain",
+            "short_name": "Spain",
+            "country": "Spain"
+        },
+        "80": {
+            "full_name": "RCD Espanyol de Barcelona",
+            "short_name": "Espanyol",
+            "country": "Spain"
+        }
+    },
+    "ARG": {
+        "762": {
+            "full_name": "Argentina",
+            "short_name": "Argentina",
+            "country": "Argentina"
+        }
+    },
+    "GHA": {
+        "763": {
+            "full_name": "Ghana",
+            "short_name": "Ghana",
+            "country": "Ghana"
+        }
+    },
+    "BRA": {
+        "764": {
+            "full_name": "Brazil",
+            "short_name": "Brazil",
+            "country": "Brazil"
+        }
+    },
+    "POR": {
+        "765": {
+            "full_name": "Portugal",
+            "short_name": "Portugal",
+            "country": "Portugal"
+        }
+    },
+    "JPN": {
+        "766": {
+            "full_name": "Japan",
+            "short_name": "Japan",
+            "country": "Japan"
+        }
+    },
+    "MEX": {
+        "769": {
+            "full_name": "Mexico",
+            "short_name": "Mexico",
+            "country": "Mexico"
+        }
+    },
+    "ENG": {
+        "770": {
+            "full_name": "England",
+            "short_name": "England",
+            "country": "England"
+        }
+    },
+    "USA": {
+        "771": {
+            "full_name": "United States",
+            "short_name": "USA",
+            "country": "United States"
+        }
+    },
+    "KOR": {
+        "772": {
+            "full_name": "South Korea",
+            "short_name": "Korea Republic",
+            "country": "Korea Republic"
+        }
+    },
+    "FRA": {
+        "773": {
+            "full_name": "France",
+            "short_name": "France",
+            "country": "France"
+        }
+    },
+    "AUS": {
+        "779": {
+            "full_name": "Australia",
+            "short_name": "Australia",
+            "country": "Australia"
+        }
+    },
+    "SRB": {
+        "780": {
+            "full_name": "Serbia",
+            "short_name": "Serbia",
+            "country": "Serbia"
+        }
+    },
+    "CMR": {
+        "781": {
+            "full_name": "Cameroon",
+            "short_name": "Cameroon",
+            "country": "Cameroon"
+        }
+    },
+    "DEN": {
+        "782": {
+            "full_name": "Denmark",
+            "short_name": "Denmark",
+            "country": "Denmark"
+        }
+    },
+    "SUI": {
+        "788": {
+            "full_name": "Switzerland",
+            "short_name": "Switzerland",
+            "country": "Switzerland"
+        }
+    },
+    "ECU": {
+        "791": {
+            "full_name": "Ecuador",
+            "short_name": "Ecuador",
+            "country": "Ecuador"
+        }
+    },
+    "CRC": {
+        "793": {
+            "full_name": "Costa Rica",
+            "short_name": "Costa Rica",
+            "country": "Costa Rica"
+        }
+    },
+    "POL": {
+        "794": {
+            "full_name": "Poland",
+            "short_name": "Poland",
+            "country": "Poland"
+        }
+    },
+    "CRO": {
+        "799": {
+            "full_name": "Croatia",
+            "short_name": "Croatia",
+            "country": "Croatia"
+        }
+    },
+    "KSA": {
+        "801": {
+            "full_name": "Saudi Arabia",
+            "short_name": "Saudi Arabia",
+            "country": "Saudi Arabia"
+        }
+    },
+    "TUN": {
+        "802": {
+            "full_name": "Tunisia",
+            "short_name": "Tunisia",
+            "country": "Tunisia"
+        }
+    },
+    "SEN": {
+        "804": {
+            "full_name": "Senegal",
+            "short_name": "Senegal",
+            "country": "Senegal"
+        }
+    },
+    "BEL": {
+        "805": {
+            "full_name": "Belgium",
+            "short_name": "Belgium",
+            "country": "Belgium"
+        }
+    },
+    "MAR": {
+        "815": {
+            "full_name": "Morocco",
+            "short_name": "Morocco",
+            "country": "Morocco"
+        },
+        "516": {
+            "full_name": "Olympique de Marseille",
+            "short_name": "Marseille",
+            "country": "France"
+        },
+        "734": {
+            "full_name": "NK Maribor",
+            "short_name": "Maribor",
+            "country": "Slovenia"
+        }
+    },
+    "CAN": {
+        "828": {
+            "full_name": "Canada",
+            "short_name": "Canada",
+            "country": "Canada"
+        }
+    },
+    "WAL": {
+        "833": {
+            "full_name": "Wales",
+            "short_name": "Wales",
+            "country": "Wales"
+        }
+    },
+    "IRN": {
+        "840": {
+            "full_name": "Iran",
+            "short_name": "Iran",
+            "country": "Iran"
+        }
+    },
+    "QAT": {
+        "8030": {
+            "full_name": "Qatar",
+            "short_name": "Qatar",
+            "country": "Qatar"
+        }
+    },
+    "NED": {
+        "8601": {
+            "full_name": "Netherlands",
+            "short_name": "Netherlands",
+            "country": "Netherlands"
+        }
+    },
+    "B04": {
+        "3": {
+            "full_name": "Bayer 04 Leverkusen",
+            "short_name": "Leverkusen",
+            "country": "Germany"
+        }
+    },
+    "BVB": {
+        "4": {
+            "full_name": "Borussia Dortmund",
+            "short_name": "Dortmund",
+            "country": "Germany"
+        }
+    },
+    "FCB": {
+        "5": {
+            "full_name": "FC Bayern M\u00fcnchen",
+            "short_name": "Bayern",
+            "country": "Germany"
+        },
+        "81": {
+            "full_name": "FC Barcelona",
+            "short_name": "Bar\u00e7a",
+            "country": "Spain"
+        }
+    },
+    "SGE": {
+        "19": {
+            "full_name": "Eintracht Frankfurt",
+            "short_name": "Frankfurt",
+            "country": "Germany"
+        }
+    },
+    "CHE": {
+        "61": {
+            "full_name": "Chelsea FC",
+            "short_name": "Chelsea",
+            "country": "England"
+        }
+    },
+    "LIV": {
+        "64": {
+            "full_name": "Liverpool FC",
+            "short_name": "Liverpool",
+            "country": "England"
+        },
+        "7118": {
+            "full_name": "Liverpool FC",
+            "short_name": "Liverpool",
+            "country": "Uruguay"
+        }
+    },
+    "MCI": {
+        "65": {
+            "full_name": "Manchester City FC",
+            "short_name": "Man City",
+            "country": "England"
+        }
+    },
+    "TOT": {
+        "73": {
+            "full_name": "Tottenham Hotspur FC",
+            "short_name": "Tottenham",
+            "country": "England"
+        }
+    },
+    "ATL": {
+        "78": {
+            "full_name": "Club Atl\u00e9tico de Madrid",
+            "short_name": "Atleti",
+            "country": "Spain"
+        }
+    },
+    "RMA": {
+        "86": {
+            "full_name": "Real Madrid CF",
+            "short_name": "Real Madrid",
+            "country": "Spain"
+        }
+    },
+    "MIL": {
+        "98": {
+            "full_name": "AC Milan",
+            "short_name": "Milan",
+            "country": "Italy"
+        },
+        "384": {
+            "full_name": "Millwall FC",
+            "short_name": "Millwall",
+            "country": "England"
+        },
+        "4444": {
+            "full_name": "Millonarios FC",
+            "short_name": "Millonarios",
+            "country": "Colombia"
+        }
+    },
+    "INT": {
+        "108": {
+            "full_name": "FC Internazionale Milano",
+            "short_name": "Inter",
+            "country": "Italy"
+        },
+        "8912": {
+            "full_name": "Inter Club d'Escaldes",
+            "short_name": "Inter Club",
+            "country": "Andorra"
+        }
+    },
+    "JUV": {
+        "109": {
+            "full_name": "Juventus FC",
+            "short_name": "Juventus",
+            "country": "Italy"
+        }
+    },
+    "NAP": {
+        "113": {
+            "full_name": "SSC Napoli",
+            "short_name": "Napoli",
+            "country": "Italy"
+        },
+        "4265": {
+            "full_name": "Club Nacional Potos\u00ed",
+            "short_name": "Nac. Potos\u00ed",
+            "country": "Bolivia"
+        }
+    },
+    "SPO": {
+        "498": {
+            "full_name": "Sporting Clube de Portugal",
+            "short_name": "Sporting CP",
+            "country": "Portugal"
+        },
+        "5347": {
+            "full_name": "CS Cristal",
+            "short_name": "Cristal",
+            "country": "Peru"
+        }
+    },
+    "FCP": {
+        "503": {
+            "full_name": "FC Porto",
+            "short_name": "Porto",
+            "country": "Portugal"
+        }
+    },
+    "PSG": {
+        "524": {
+            "full_name": "Paris Saint-Germain FC",
+            "short_name": "PSG",
+            "country": "France"
+        }
+    },
+    "ASM": {
+        "548": {
+            "full_name": "AS Monaco FC",
+            "short_name": "Monaco",
+            "country": "Monaco"
+        }
+    },
+    "SEV": {
+        "559": {
+            "full_name": "Sevilla FC",
+            "short_name": "Sevilla FC",
+            "country": "Spain"
+        }
+    },
+    "TRA": {
+        "602": {
+            "full_name": "Trabzonspor",
+            "short_name": "Trabzonspor",
+            "country": "Turkey"
+        }
+    },
+    "QAR": {
+        "611": {
+            "full_name": "Qaraba\u011f A\u011fdam FK",
+            "short_name": "Qaraba\u011f A\u011fdam",
+            "country": "Azerbaijan"
+        }
+    },
+    "FEN": {
+        "613": {
+            "full_name": "Fenerbah\u00e7e SK",
+            "short_name": "Fenerbah\u00e7e",
+            "country": "Turkey"
+        }
+    },
+    "OLY": {
+        "654": {
+            "full_name": "PAE Olympiakos SFP",
+            "short_name": "Olympiakos",
+            "country": "Greece"
+        }
+    },
+    "PSV": {
+        "674": {
+            "full_name": "PSV",
+            "short_name": "PSV",
+            "country": "Netherlands"
+        }
+    },
+    "AJA": {
+        "678": {
+            "full_name": "AFC Ajax",
+            "short_name": "Ajax",
+            "country": "Netherlands"
+        },
+        "519": {
+            "full_name": "AJ Auxerre",
+            "short_name": "Auxerre",
+            "country": "France"
+        }
+    },
+    "RBL": {
+        "721": {
+            "full_name": "RB Leipzig",
+            "short_name": "RB Leipzig",
+            "country": "Germany"
+        }
+    },
+    "CEL": {
+        "732": {
+            "full_name": "Celtic FC",
+            "short_name": "Celtic",
+            "country": "Scotland"
+        },
+        "558": {
+            "full_name": "RC Celta de Vigo",
+            "short_name": "Celta",
+            "country": "Spain"
+        }
+    },
+    "MAL": {
+        "749": {
+            "full_name": "Malm\u00f6 FF",
+            "short_name": "Malm\u00f6 FF",
+            "country": "Sweden"
+        },
+        "89": {
+            "full_name": "RCD Mallorca",
+            "short_name": "Mallorca",
+            "country": "Spain"
+        }
+    },
+    "DIN": {
+        "755": {
+            "full_name": "GNK Dinamo Zagreb",
+            "short_name": "Dinamo Zagreb",
+            "country": "Croatia"
+        }
+    },
+    "DYN": {
+        "842": {
+            "full_name": "FK Dynamo Kyiv",
+            "short_name": "Dynamo Kyiv",
+            "country": "Ukraine"
+        }
+    },
+    "CLU": {
+        "851": {
+            "full_name": "Club Brugge KV",
+            "short_name": "Club Brugge",
+            "country": "Belgium"
+        },
+        "5515": {
+            "full_name": "FC CFR 1907 Cluj",
+            "short_name": "CFR Cluj",
+            "country": "Romania"
+        }
+    },
+    "MHA": {
+        "884": {
+            "full_name": "Maccabi Haifa FC",
+            "short_name": "Maccabi Haifa",
+            "country": "Israel"
+        }
+    },
+    "F91": {
+        "1875": {
+            "full_name": "F91 Diddeleng",
+            "short_name": "F91 Dudelange",
+            "country": "Luxembourg"
+        }
+    },
+    "KOB": {
+        "1876": {
+            "full_name": "FC K\u00f8benhavn",
+            "short_name": "K\u00f8benhavn",
+            "country": "Denmark"
+        }
+    },
+    "RBS": {
+        "1877": {
+            "full_name": "FC Red Bull Salzburg",
+            "short_name": "RB Salzburg",
+            "country": "Austria"
+        }
+    },
+    "SHE": {
+        "1880": {
+            "full_name": "FC Sheriff Tiraspol",
+            "short_name": "Sheriff",
+            "country": "Moldova"
+        },
+        "356": {
+            "full_name": "Sheffield United FC",
+            "short_name": "Sheffield Utd",
+            "country": "England"
+        }
+    },
+    "PLZ": {
+        "1881": {
+            "full_name": "FC Viktoria Plze\u0148",
+            "short_name": "Viktoria Plze\u0148",
+            "country": "Czech Republic"
+        }
+    },
+    "SHD": {
+        "1887": {
+            "full_name": "FK Shakhtar Donetsk",
+            "short_name": "Shaktar",
+            "country": "Ukraine"
+        }
+    },
+    "ZAL": {
+        "1890": {
+            "full_name": "FK \u017dalgiris Vilnius",
+            "short_name": "\u017dalgiris",
+            "country": "Lithuania"
+        }
+    },
+    "HIB": {
+        "1892": {
+            "full_name": "Hibernians FC",
+            "short_name": "Hibernians",
+            "country": "Malta"
+        }
+    },
+    "ZRI": {
+        "1894": {
+            "full_name": "H\u0160K Zrinjski Mostar",
+            "short_name": "Zrinjski",
+            "country": "Bosnia and Herzegovina"
+        }
+    },
+    "LIN": {
+        "1896": {
+            "full_name": "Linfield FC",
+            "short_name": "Linfield",
+            "country": "Northern Ireland"
+        },
+        "7281": {
+            "full_name": "Lincoln Red Imps FC",
+            "short_name": "Lincoln",
+            "country": "Gibraltar"
+        }
+    },
+    "LUD": {
+        "1901": {
+            "full_name": "PFK Ludogorets 1945 Razgrad",
+            "short_name": "Ludogorets",
+            "country": "Bulgaria"
+        }
+    },
+    "LAF": {
+        "1902": {
+            "full_name": "SP La Fiorita",
+            "short_name": "La Fiorita",
+            "country": "San Marino"
+        }
+    },
+    "BEN": {
+        "1903": {
+            "full_name": "Sport Lisboa e Benfica",
+            "short_name": "SL Benfica",
+            "country": "Portugal"
+        }
+    },
+    "TNS": {
+        "1904": {
+            "full_name": "The New Saints FC",
+            "short_name": "The New Saints",
+            "country": "Wales"
+        }
+    },
+    "STU": {
+        "2021": {
+            "full_name": "SK Sturm Graz",
+            "short_name": "Sturm Graz",
+            "country": "Austria"
+        }
+    },
+    "SHR": {
+        "2921": {
+            "full_name": "Shamrock Rovers FC",
+            "short_name": "Shamrock Rov",
+            "country": "Republic of Ireland"
+        }
+    },
+    "USG": {
+        "3929": {
+            "full_name": "Royale Union Saint-Gilloise",
+            "short_name": "Union SG",
+            "country": "Belgium"
+        }
+    },
+    "MID": {
+        "4485": {
+            "full_name": "FC Midtjylland",
+            "short_name": "Midtjylland",
+            "country": "Denmark"
+        },
+        "343": {
+            "full_name": "Middlesbrough FC",
+            "short_name": "Middlesbrough",
+            "country": "England"
+        }
+    },
+    "LEV": {
+        "5102": {
+            "full_name": "FCI Levadia",
+            "short_name": "FCI Levadia",
+            "country": "Estonia"
+        }
+    },
+    "HJK": {
+        "5123": {
+            "full_name": "Helsingin JK",
+            "short_name": "HJK",
+            "country": "Finland"
+        }
+    },
+    "FCZ": {
+        "5273": {
+            "full_name": "FC Z\u00fcrich",
+            "short_name": "FC Z\u00fcrich",
+            "country": "Switzerland"
+        }
+    },
+    "RAN": {
+        "5376": {
+            "full_name": "Rangers FC",
+            "short_name": "Rangers",
+            "country": "Scotland"
+        }
+    },
+    "LEP": {
+        "5634": {
+            "full_name": "KKS Lech Pozna\u0144",
+            "short_name": "Lech Pozna\u0144",
+            "country": "Poland"
+        }
+    },
+    "FK": {
+        "5721": {
+            "full_name": "FK Bod\u00f8/Glimt",
+            "short_name": "Bod\u00f8/Glimt",
+            "country": "Norway"
+        }
+    },
+    "RFS": {
+        "5823": {
+            "full_name": "FK R\u012bgas Futbola Skola",
+            "short_name": "FK R\u012bgas FS",
+            "country": "Latvia"
+        }
+    },
+    "VIK": {
+        "5946": {
+            "full_name": "KF V\u00edkingur",
+            "short_name": "V\u00edkingur",
+            "country": "Iceland"
+        }
+    },
+    "KRR": {
+        "5947": {
+            "full_name": "KR Reykjav\u00edk",
+            "short_name": "KR",
+            "country": "Iceland"
+        }
+    },
+    "FTC": {
+        "5954": {
+            "full_name": "Ferencv\u00e1rosi TC",
+            "short_name": "Ferencv\u00e1ros",
+            "country": "Hungary"
+        }
+    },
+    "CRV": {
+        "7283": {
+            "full_name": "FK Crvena Zvezda",
+            "short_name": "Crvena Zvedza",
+            "country": "Serbia"
+        }
+    },
+    "SUT": {
+        "7284": {
+            "full_name": "FK Sutjeska Nik\u0161i\u0107",
+            "short_name": "Sutjeska Nik",
+            "country": "Montenegro"
+        }
+    },
+    "K\u00cd": {
+        "7472": {
+            "full_name": "K\u00cd",
+            "short_name": "K\u00cd",
+            "country": "Faroe Islands"
+        }
+    },
+    "APO": {
+        "7483": {
+            "full_name": "Apollon FC Lemes\u00f3s",
+            "short_name": "Apollon",
+            "country": "Cyprus"
+        }
+    },
+    "SHK": {
+        "7485": {
+            "full_name": "FK Shkupi Skopje",
+            "short_name": "Shkupi Skopje",
+            "country": "FYR Macedonia"
+        }
+    },
+    "PYU": {
+        "7497": {
+            "full_name": "FC Pyunik Yerevan",
+            "short_name": "Pyunik",
+            "country": "Armenia"
+        }
+    },
+    "SOL": {
+        "7498": {
+            "full_name": "FK \u0160achcior Salihorsk",
+            "short_name": "\u0160achcior S.",
+            "country": "Belarus"
+        }
+    },
+    "SBA": {
+        "7509": {
+            "full_name": "\u0160K Slovan Bratislava",
+            "short_name": "Sl. Bratislava",
+            "country": "Slovakia"
+        }
+    },
+    "AEK": {
+        "7517": {
+            "full_name": "A\u00c9K L\u00e1rnaka",
+            "short_name": "A\u00c9K L\u00e1rnaka",
+            "country": "Cyprus"
+        }
+    },
+    "BAT": {
+        "8904": {
+            "full_name": "FC Dinamo Batumi",
+            "short_name": "Dinamo Batumi",
+            "country": "Georgia"
+        }
+    },
+    "TIR": {
+        "8984": {
+            "full_name": "KF Tirana",
+            "short_name": "Tirana",
+            "country": "Albania"
+        }
+    },
+    "TOB": {
+        "9417": {
+            "full_name": "Tobol Kostanay",
+            "short_name": null,
+            "country": "Kazakhstan"
+        }
+    },
+    "BAL": {
+        "10062": {
+            "full_name": "Ballkani",
+            "short_name": null,
+            "country": "Kosovo"
+        }
+    },
+    "KOE": {
+        "1": {
+            "full_name": "1. FC K\u00f6ln",
+            "short_name": "1. FC K\u00f6ln",
+            "country": "Germany"
+        }
+    },
+    "TSG": {
+        "2": {
+            "full_name": "TSG 1899 Hoffenheim",
+            "short_name": "Hoffenheim",
+            "country": "Germany"
+        }
+    },
+    "S04": {
+        "6": {
+            "full_name": "FC Schalke 04",
+            "short_name": "Schalke",
+            "country": "Germany"
+        }
+    },
+    "BSC": {
+        "9": {
+            "full_name": "Hertha BSC",
+            "short_name": "Hertha BSC",
+            "country": "Germany"
+        }
+    },
+    "VFB": {
+        "10": {
+            "full_name": "VfB Stuttgart",
+            "short_name": "Stuttgart",
+            "country": "Germany"
+        }
+    },
+    "WOB": {
+        "11": {
+            "full_name": "VfL Wolfsburg",
+            "short_name": "Wolfsburg",
+            "country": "Germany"
+        }
+    },
+    "SVW": {
+        "12": {
+            "full_name": "SV Werder Bremen",
+            "short_name": "Bremen",
+            "country": "Germany"
+        }
+    },
+    "M05": {
+        "15": {
+            "full_name": "1. FSV Mainz 05",
+            "short_name": "Mainz",
+            "country": "Germany"
+        }
+    },
+    "FCA": {
+        "16": {
+            "full_name": "FC Augsburg",
+            "short_name": "Augsburg",
+            "country": "Germany"
+        },
+        "712": {
+            "full_name": "FC Arouca",
+            "short_name": "Arouca",
+            "country": "Portugal"
+        }
+    },
+    "SCF": {
+        "17": {
+            "full_name": "SC Freiburg",
+            "short_name": "Freiburg",
+            "country": "Germany"
+        }
+    },
+    "BMG": {
+        "18": {
+            "full_name": "Borussia M\u00f6nchengladbach",
+            "short_name": "M'gladbach",
+            "country": "Germany"
+        }
+    },
+    "UNB": {
+        "28": {
+            "full_name": "1. FC Union Berlin",
+            "short_name": "Union Berlin",
+            "country": "Germany"
+        }
+    },
+    "BOC": {
+        "36": {
+            "full_name": "VfL Bochum 1848",
+            "short_name": "Bochum",
+            "country": "Germany"
+        },
+        "2061": {
+            "full_name": "CA Boca Juniors",
+            "short_name": "Boca Juniors",
+            "country": "Argentina"
+        }
+    },
+    "TWE": {
+        "666": {
+            "full_name": "FC Twente '65",
+            "short_name": "Twente",
+            "country": "Netherlands"
+        }
+    },
+    "EXC": {
+        "670": {
+            "full_name": "SBV Excelsior",
+            "short_name": "Excelsior",
+            "country": "Netherlands"
+        }
+    },
+    "HEE": {
+        "673": {
+            "full_name": "SC Heerenveen",
+            "short_name": "Heerenveen",
+            "country": "Netherlands"
+        }
+    },
+    "FEY": {
+        "675": {
+            "full_name": "Feyenoord Rotterdam",
+            "short_name": "Feyenoord",
+            "country": "Netherlands"
+        }
+    },
+    "UTR": {
+        "676": {
+            "full_name": "FC Utrecht",
+            "short_name": "Utrecht",
+            "country": "Netherlands"
+        }
+    },
+    "GRO": {
+        "677": {
+            "full_name": "FC Groningen",
+            "short_name": "Groningen",
+            "country": "Netherlands"
+        }
+    },
+    "VIT": {
+        "679": {
+            "full_name": "SBV Vitesse",
+            "short_name": "Vitesse",
+            "country": "Netherlands"
+        }
+    },
+    "AZ": {
+        "682": {
+            "full_name": "AZ",
+            "short_name": "AZ",
+            "country": "Netherlands"
+        }
+    },
+    "RKC": {
+        "683": {
+            "full_name": "RKC Waalwijk",
+            "short_name": "RKC",
+            "country": "Netherlands"
+        }
+    },
+    "GOA": {
+        "718": {
+            "full_name": "Go Ahead Eagles",
+            "short_name": "Go Ahead",
+            "country": "Netherlands"
+        }
+    },
+    "CAM": {
+        "1909": {
+            "full_name": "SC Cambuur-Leeuwarden",
+            "short_name": "Cambuur",
+            "country": "Netherlands"
+        },
+        "1766": {
+            "full_name": "CA Mineiro",
+            "short_name": "Mineiro",
+            "country": "Brazil"
+        }
+    },
+    "EMM": {
+        "1914": {
+            "full_name": "FC Emmen",
+            "short_name": "Emmen",
+            "country": "Netherlands"
+        }
+    },
+    "NEC": {
+        "1915": {
+            "full_name": "NEC",
+            "short_name": "NEC",
+            "country": "Netherlands"
+        }
+    },
+    "VOL": {
+        "1919": {
+            "full_name": "FC Volendam",
+            "short_name": "Volendam",
+            "country": "Netherlands"
+        }
+    },
+    "SIT": {
+        "1920": {
+            "full_name": "Fortuna Sittard",
+            "short_name": "Sittard",
+            "country": "Netherlands"
+        }
+    },
+    "SPA": {
+        "6806": {
+            "full_name": "Sparta Rotterdam",
+            "short_name": "Sparta",
+            "country": "Netherlands"
+        }
+    },
+    "FLU": {
+        "1765": {
+            "full_name": "Fluminense FC",
+            "short_name": "Fluminense",
+            "country": "Brazil"
+        }
+    },
+    "FBP": {
+        "1767": {
+            "full_name": "Gr\u00eamio FBPA",
+            "short_name": "Gr\u00eamio",
+            "country": "Brazil"
+        }
+    },
+    "CAP": {
+        "1768": {
+            "full_name": "CA Paranaense",
+            "short_name": "Paranaense",
+            "country": "Brazil"
+        }
+    },
+    "PAL": {
+        "1769": {
+            "full_name": "SE Palmeiras",
+            "short_name": "Palmeiras",
+            "country": "Brazil"
+        }
+    },
+    "BOT": {
+        "1770": {
+            "full_name": "Botafogo FR",
+            "short_name": "Botafogo",
+            "country": "Brazil"
+        }
+    },
+    "CRU": {
+        "1771": {
+            "full_name": "Cruzeiro EC",
+            "short_name": "Cruzeiro",
+            "country": "Brazil"
+        }
+    },
+    "PAU": {
+        "1776": {
+            "full_name": "S\u00e3o Paulo FC",
+            "short_name": "S\u00e3o Paulo",
+            "country": "Brazil"
+        }
+    },
+    "BAH": {
+        "1777": {
+            "full_name": "EC Bahia",
+            "short_name": "Bahia",
+            "country": "Brazil"
+        }
+    },
+    "COR": {
+        "1779": {
+            "full_name": "SC Corinthians Paulista",
+            "short_name": "Corinthians",
+            "country": "Brazil"
+        },
+        "4241": {
+            "full_name": "Coritiba FBC",
+            "short_name": "Coritiba",
+            "country": "Brazil"
+        }
+    },
+    "VAS": {
+        "1780": {
+            "full_name": "CR Vasco da Gama",
+            "short_name": "Vasco da Gama",
+            "country": "Brazil"
+        }
+    },
+    "FLA": {
+        "1783": {
+            "full_name": "CR Flamengo",
+            "short_name": "Flamengo",
+            "country": "Brazil"
+        }
+    },
+    "AM\u00c9": {
+        "1838": {
+            "full_name": "Am\u00e9rica FC",
+            "short_name": "Am\u00e9rica (MG)",
+            "country": "Brazil"
+        }
+    },
+    "FEC": {
+        "3984": {
+            "full_name": "Fortaleza EC",
+            "short_name": "Fortaleza",
+            "country": "Brazil"
+        }
+    },
+    "GOI": {
+        "4250": {
+            "full_name": "Goi\u00e1s EC",
+            "short_name": "Goi\u00e1s",
+            "country": "Brazil"
+        }
+    },
+    "RBB": {
+        "4286": {
+            "full_name": "RB Bragantino",
+            "short_name": "Bragantino",
+            "country": "Brazil"
+        }
+    },
+    "CUI": {
+        "4289": {
+            "full_name": "Cuiab\u00e1 EC",
+            "short_name": "Cuiab\u00e1 EC",
+            "country": "Brazil"
+        }
+    },
+    "SCI": {
+        "6684": {
+            "full_name": "SC Internacional",
+            "short_name": "Internacional",
+            "country": "Brazil"
+        }
+    },
+    "SAN": {
+        "6685": {
+            "full_name": "Santos FC",
+            "short_name": "Santos",
+            "country": "Brazil"
+        }
+    },
+    "ATH": {
+        "77": {
+            "full_name": "Athletic Club",
+            "short_name": "Athletic",
+            "country": "Spain"
+        }
+    },
+    "OSA": {
+        "79": {
+            "full_name": "CA Osasuna",
+            "short_name": "Osasuna",
+            "country": "Spain"
+        }
+    },
+    "GET": {
+        "82": {
+            "full_name": "Getafe CF",
+            "short_name": "Getafe",
+            "country": "Spain"
+        }
+    },
+    "RAY": {
+        "87": {
+            "full_name": "Rayo Vallecano de Madrid",
+            "short_name": "Rayo Vallecano",
+            "country": "Spain"
+        }
+    },
+    "BET": {
+        "90": {
+            "full_name": "Real Betis Balompi\u00e9",
+            "short_name": "Real Betis",
+            "country": "Spain"
+        }
+    },
+    "RSO": {
+        "92": {
+            "full_name": "Real Sociedad de F\u00fatbol",
+            "short_name": "Real Sociedad",
+            "country": "Spain"
+        }
+    },
+    "VIL": {
+        "94": {
+            "full_name": "Villarreal CF",
+            "short_name": "Villarreal",
+            "country": "Spain"
+        }
+    },
+    "VAL": {
+        "95": {
+            "full_name": "Valencia CF",
+            "short_name": "Valencia",
+            "country": "Spain"
+        }
+    },
+    "VDD": {
+        "250": {
+            "full_name": "Real Valladolid CF",
+            "short_name": "Valladolid",
+            "country": "Spain"
+        }
+    },
+    "CAD": {
+        "264": {
+            "full_name": "C\u00e1diz CF",
+            "short_name": "C\u00e1diz CF",
+            "country": "Spain"
+        }
+    },
+    "ALM": {
+        "267": {
+            "full_name": "UD Almer\u00eda",
+            "short_name": "Almer\u00eda",
+            "country": "Spain"
+        }
+    },
+    "ELC": {
+        "285": {
+            "full_name": "Elche CF",
+            "short_name": "Elche",
+            "country": "Spain"
+        }
+    },
+    "GIR": {
+        "298": {
+            "full_name": "Girona FC",
+            "short_name": "Girona",
+            "country": "Spain"
+        }
+    },
+    "ACA": {
+        "510": {
+            "full_name": "AC Ajaccio",
+            "short_name": "AC Ajaccio",
+            "country": "France"
+        }
+    },
+    "TOU": {
+        "511": {
+            "full_name": "Toulouse FC",
+            "short_name": "Toulouse",
+            "country": "France"
+        }
+    },
+    "BRE": {
+        "512": {
+            "full_name": "Stade Brestois 29",
+            "short_name": "Brest",
+            "country": "France"
+        },
+        "402": {
+            "full_name": "Brentford FC",
+            "short_name": "Brentford",
+            "country": "England"
+        }
+    },
+    "MON": {
+        "518": {
+            "full_name": "Montpellier HSC",
+            "short_name": "Montpellier",
+            "country": "France"
+        },
+        "5911": {
+            "full_name": "AC Monza",
+            "short_name": "Monza",
+            "country": "Italy"
+        }
+    },
+    "LIL": {
+        "521": {
+            "full_name": "Lille OSC",
+            "short_name": "Lille",
+            "country": "France"
+        }
+    },
+    "NIC": {
+        "522": {
+            "full_name": "OGC Nice",
+            "short_name": "Nice",
+            "country": "France"
+        }
+    },
+    "LYO": {
+        "523": {
+            "full_name": "Olympique Lyonnais",
+            "short_name": "Olympique Lyon",
+            "country": "France"
+        }
+    },
+    "FCL": {
+        "525": {
+            "full_name": "FC Lorient",
+            "short_name": "Lorient",
+            "country": "France"
+        }
+    },
+    "REN": {
+        "529": {
+            "full_name": "Stade Rennais FC 1901",
+            "short_name": "Stade Rennais",
+            "country": "France"
+        }
+    },
+    "ETR": {
+        "531": {
+            "full_name": "ES Troyes AC",
+            "short_name": "Troyes",
+            "country": "France"
+        }
+    },
+    "ANG": {
+        "532": {
+            "full_name": "Angers SCO",
+            "short_name": "Angers SCO",
+            "country": "France"
+        }
+    },
+    "CLF": {
+        "541": {
+            "full_name": "Clermont Foot 63",
+            "short_name": "Clermont Foot",
+            "country": "France"
+        }
+    },
+    "NAN": {
+        "543": {
+            "full_name": "FC Nantes",
+            "short_name": "Nantes",
+            "country": "France"
+        }
+    },
+    "RCL": {
+        "546": {
+            "full_name": "Racing Club de Lens",
+            "short_name": "RC Lens",
+            "country": "France"
+        }
+    },
+    "SDR": {
+        "547": {
+            "full_name": "Stade de Reims",
+            "short_name": "Stade de Reims",
+            "country": "France"
+        }
+    },
+    "RC ": {
+        "576": {
+            "full_name": "RC Strasbourg Alsace",
+            "short_name": "Strasbourg",
+            "country": "France"
+        }
+    },
+    "BLA": {
+        "59": {
+            "full_name": "Blackburn Rovers FC",
+            "short_name": "Blackburn",
+            "country": "England"
+        },
+        "336": {
+            "full_name": "Blackpool FC",
+            "short_name": "Blackpool",
+            "country": "England"
+        }
+    },
+    "NOR": {
+        "68": {
+            "full_name": "Norwich City FC",
+            "short_name": "Norwich",
+            "country": "England"
+        }
+    },
+    "QPR": {
+        "69": {
+            "full_name": "Queens Park Rangers FC",
+            "short_name": "QPR",
+            "country": "England"
+        }
+    },
+    "STK": {
+        "70": {
+            "full_name": "Stoke City FC",
+            "short_name": "Stoke",
+            "country": "England"
+        }
+    },
+    "SUN": {
+        "71": {
+            "full_name": "Sunderland AFC",
+            "short_name": "Sunderland",
+            "country": "England"
+        }
+    },
+    "SWA": {
+        "72": {
+            "full_name": "Swansea City AFC",
+            "short_name": "Swansea",
+            "country": "Wales"
+        }
+    },
+    "WBA": {
+        "74": {
+            "full_name": "West Bromwich Albion FC",
+            "short_name": "West Brom",
+            "country": "England"
+        }
+    },
+    "WIG": {
+        "75": {
+            "full_name": "Wigan Athletic FC",
+            "short_name": "Wigan Athletic",
+            "country": "England"
+        }
+    },
+    "HUL": {
+        "322": {
+            "full_name": "Hull City AFC",
+            "short_name": "Hull City",
+            "country": "England"
+        }
+    },
+    "BUR": {
+        "328": {
+            "full_name": "Burnley FC",
+            "short_name": "Burnley",
+            "country": "England"
+        }
+    },
+    "BIR": {
+        "332": {
+            "full_name": "Birmingham City FC",
+            "short_name": "Birmingham",
+            "country": "England"
+        }
+    },
+    "WAT": {
+        "346": {
+            "full_name": "Watford FC",
+            "short_name": "Watford",
+            "country": "England"
+        }
+    },
+    "REA": {
+        "355": {
+            "full_name": "Reading FC",
+            "short_name": "Reading",
+            "country": "England"
+        }
+    },
+    "ROT": {
+        "385": {
+            "full_name": "Rotherham United FC",
+            "short_name": "Rotherham Utd",
+            "country": "England"
+        }
+    },
+    "BRI": {
+        "387": {
+            "full_name": "Bristol City FC",
+            "short_name": "Bristol City",
+            "country": "England"
+        }
+    },
+    "LUT": {
+        "389": {
+            "full_name": "Luton Town FC",
+            "short_name": "Luton Town",
+            "country": "England"
+        }
+    },
+    "HUD": {
+        "394": {
+            "full_name": "Huddersfield Town AFC",
+            "short_name": "Huddersfield",
+            "country": "England"
+        }
+    },
+    "CAR": {
+        "715": {
+            "full_name": "Cardiff City FC",
+            "short_name": "Cardiff",
+            "country": "Wales"
+        },
+        "5166": {
+            "full_name": "Carabobo FC",
+            "short_name": "Carabobo",
+            "country": "Venezuela"
+        },
+        "7865": {
+            "full_name": "Club Always Ready",
+            "short_name": "Always Ready",
+            "country": "Bolivia"
+        }
+    },
+    "COV": {
+        "1076": {
+            "full_name": "Coventry City FC",
+            "short_name": "Coventry City",
+            "country": "England"
+        }
+    },
+    "PNE": {
+        "1081": {
+            "full_name": "Preston North End FC",
+            "short_name": "Preston NE",
+            "country": "England"
+        }
+    },
+    "RIO": {
+        "496": {
+            "full_name": "Rio Ave FC",
+            "short_name": "Rio Ave",
+            "country": "Portugal"
+        }
+    },
+    "PA\u00c7": {
+        "507": {
+            "full_name": "FC Pa\u00e7os de Ferreira",
+            "short_name": "Pa\u00e7os Ferreira",
+            "country": "Portugal"
+        }
+    },
+    "EST": {
+        "582": {
+            "full_name": "GD Estoril Praia",
+            "short_name": "Estoril Praia",
+            "country": "Portugal"
+        }
+    },
+    "BOA": {
+        "810": {
+            "full_name": "Boavista FC",
+            "short_name": "Boavista",
+            "country": "Portugal"
+        }
+    },
+    "CHA": {
+        "1103": {
+            "full_name": "GD Chaves",
+            "short_name": "Chaves",
+            "country": "Portugal"
+        }
+    },
+    "CD ": {
+        "5530": {
+            "full_name": "CD Santa Clara",
+            "short_name": "Santa Clara",
+            "country": "Portugal"
+        }
+    },
+    "FAM": {
+        "5531": {
+            "full_name": "FC Famalic\u00e3o",
+            "short_name": "Famalic\u00e3o",
+            "country": "Portugal"
+        }
+    },
+    "GIL": {
+        "5533": {
+            "full_name": "Gil Vicente FC",
+            "short_name": "Gil Vicente",
+            "country": "Portugal"
+        }
+    },
+    "GUI": {
+        "5543": {
+            "full_name": "Vit\u00f3ria SC",
+            "short_name": "Vit\u00f3ria SC",
+            "country": "Portugal"
+        }
+    },
+    "CSM": {
+        "5575": {
+            "full_name": "CS Mar\u00edtimo",
+            "short_name": "Mar\u00edtimo",
+            "country": "Portugal"
+        }
+    },
+    "VIZ": {
+        "5589": {
+            "full_name": "FC Vizela",
+            "short_name": "Vizela",
+            "country": "Portugal"
+        }
+    },
+    "PSC": {
+        "5601": {
+            "full_name": "Portimonense SC",
+            "short_name": "Portimonense",
+            "country": "Portugal"
+        }
+    },
+    "SCB": {
+        "5613": {
+            "full_name": "Sporting Clube de Braga",
+            "short_name": "Braga",
+            "country": "Portugal"
+        }
+    },
+    "CAS": {
+        "6618": {
+            "full_name": "Casa Pia AC",
+            "short_name": "Casa Pia",
+            "country": "Portugal"
+        }
+    },
+    "FIO": {
+        "99": {
+            "full_name": "ACF Fiorentina",
+            "short_name": "Fiorentina",
+            "country": "Italy"
+        }
+    },
+    "ROM": {
+        "100": {
+            "full_name": "AS Roma",
+            "short_name": "Roma",
+            "country": "Italy"
+        }
+    },
+    "ATA": {
+        "102": {
+            "full_name": "Atalanta BC",
+            "short_name": "Atalanta",
+            "country": "Italy"
+        }
+    },
+    "BOL": {
+        "103": {
+            "full_name": "Bologna FC 1909",
+            "short_name": "Bologna",
+            "country": "Italy"
+        },
+        "4261": {
+            "full_name": "Club Bol\u00edvar",
+            "short_name": "Club Bol\u00edvar",
+            "country": "Bolivia"
+        }
+    },
+    "LAZ": {
+        "110": {
+            "full_name": "SS Lazio",
+            "short_name": "Lazio",
+            "country": "Italy"
+        }
+    },
+    "UDI": {
+        "115": {
+            "full_name": "Udinese Calcio",
+            "short_name": "Udinese",
+            "country": "Italy"
+        }
+    },
+    "EMP": {
+        "445": {
+            "full_name": "Empoli FC",
+            "short_name": "Empoli",
+            "country": "Italy"
+        }
+    },
+    "HVE": {
+        "450": {
+            "full_name": "Hellas Verona FC",
+            "short_name": "Verona",
+            "country": "Italy"
+        }
+    },
+    "SAL": {
+        "455": {
+            "full_name": "US Salernitana 1919",
+            "short_name": "Salernitana",
+            "country": "Italy"
+        }
+    },
+    "CRE": {
+        "457": {
+            "full_name": "US Cremonese",
+            "short_name": "Cremonese",
+            "country": "Italy"
+        }
+    },
+    "SAS": {
+        "471": {
+            "full_name": "US Sassuolo Calcio",
+            "short_name": "Sassuolo",
+            "country": "Italy"
+        }
+    },
+    "SPE": {
+        "488": {
+            "full_name": "Spezia Calcio",
+            "short_name": "Spezia Calcio",
+            "country": "Italy"
+        }
+    },
+    "SAM": {
+        "584": {
+            "full_name": "UC Sampdoria",
+            "short_name": "Sampdoria",
+            "country": "Italy"
+        }
+    },
+    "TOR": {
+        "586": {
+            "full_name": "Torino FC",
+            "short_name": "Torino",
+            "country": "Italy"
+        }
+    },
+    "USL": {
+        "5890": {
+            "full_name": "US Lecce",
+            "short_name": "Lecce",
+            "country": "Italy"
+        }
+    },
+    "ARS": {
+        "57": {
+            "full_name": "Arsenal FC",
+            "short_name": "Arsenal",
+            "country": "England"
+        }
+    },
+    "AVL": {
+        "58": {
+            "full_name": "Aston Villa FC",
+            "short_name": "Aston Villa",
+            "country": "England"
+        }
+    },
+    "EVE": {
+        "62": {
+            "full_name": "Everton FC",
+            "short_name": "Everton",
+            "country": "England"
+        }
+    },
+    "FUL": {
+        "63": {
+            "full_name": "Fulham FC",
+            "short_name": "Fulham",
+            "country": "England"
+        }
+    },
+    "MUN": {
+        "66": {
+            "full_name": "Manchester United FC",
+            "short_name": "Man United",
+            "country": "England"
+        }
+    },
+    "NEW": {
+        "67": {
+            "full_name": "Newcastle United FC",
+            "short_name": "Newcastle",
+            "country": "England"
+        }
+    },
+    "WOL": {
+        "76": {
+            "full_name": "Wolverhampton Wanderers FC",
+            "short_name": "Wolverhampton",
+            "country": "England"
+        }
+    },
+    "LEI": {
+        "338": {
+            "full_name": "Leicester City FC",
+            "short_name": "Leicester City",
+            "country": "England"
+        }
+    },
+    "SOU": {
+        "340": {
+            "full_name": "Southampton FC",
+            "short_name": "Southampton",
+            "country": "England"
+        }
+    },
+    "LEE": {
+        "341": {
+            "full_name": "Leeds United FC",
+            "short_name": "Leeds United",
+            "country": "England"
+        }
+    },
+    "NOT": {
+        "351": {
+            "full_name": "Nottingham Forest FC",
+            "short_name": "Nottingham",
+            "country": "England"
+        }
+    },
+    "CRY": {
+        "354": {
+            "full_name": "Crystal Palace FC",
+            "short_name": "Crystal Palace",
+            "country": "England"
+        }
+    },
+    "BHA": {
+        "397": {
+            "full_name": "Brighton & Hove Albion FC",
+            "short_name": "Brighton Hove",
+            "country": "England"
+        }
+    },
+    "WHU": {
+        "563": {
+            "full_name": "West Ham United FC",
+            "short_name": "West Ham",
+            "country": "England"
+        }
+    },
+    "BOU": {
+        "1044": {
+            "full_name": "AFC Bournemouth",
+            "short_name": "Bournemouth",
+            "country": "England"
+        }
+    },
+    "ARJ": {
+        "2058": {
+            "full_name": "AA Argentinos Juniors",
+            "short_name": "Argentinos Jrs",
+            "country": "Argentina"
+        }
+    },
+    "HUR": {
+        "2064": {
+            "full_name": "CA Hurac\u00e1n",
+            "short_name": "Hurac\u00e1n BA",
+            "country": "Argentina"
+        }
+    },
+    "PAT": {
+        "2068": {
+            "full_name": "CA Patronato",
+            "short_name": "Patronato",
+            "country": "Argentina"
+        }
+    },
+    "STR": {
+        "4267": {
+            "full_name": "Club The Strongest",
+            "short_name": "The Strongest",
+            "country": "Bolivia"
+        }
+    },
+    "COL": {
+        "4410": {
+            "full_name": "CSD Colo-Colo",
+            "short_name": "Colo-Colo",
+            "country": "Chile"
+        }
+    },
+    "NAC": {
+        "4438": {
+            "full_name": "CDC Atl\u00e9tico Nacional",
+            "short_name": "CDC Atl\u00e9tico",
+            "country": "Colombia"
+        },
+        "5188": {
+            "full_name": "Club Nacional",
+            "short_name": "Club Nacional",
+            "country": "Paraguay"
+        },
+        "7055": {
+            "full_name": "Club Nacional de Football",
+            "short_name": "Club Nacional",
+            "country": "Uruguay"
+        }
+    },
+    "CUR": {
+        "4465": {
+            "full_name": "CDP Curic\u00f3 Unido",
+            "short_name": "Curic\u00f3",
+            "country": "Chile"
+        }
+    },
+    "BAR": {
+        "4520": {
+            "full_name": "Barcelona SC",
+            "short_name": "Barcelona SC",
+            "country": "Ecuador"
+        }
+    },
+    "ELN": {
+        "4524": {
+            "full_name": "CSCyD El Nacional",
+            "short_name": "El Nacional",
+            "country": "Ecuador"
+        }
+    },
+    "SDA": {
+        "4529": {
+            "full_name": "SD Aucas",
+            "short_name": "SD Aucas",
+            "country": "Ecuador"
+        }
+    },
+    "MET": {
+        "5174": {
+            "full_name": "Metropolitanos FC",
+            "short_name": "Metropolitanos",
+            "country": "Venezuela"
+        }
+    },
+    "MSC": {
+        "5175": {
+            "full_name": "Monagas SC",
+            "short_name": "Monagas SC",
+            "country": "Venezuela"
+        }
+    },
+    "ZAM": {
+        "5178": {
+            "full_name": "Zamora FC",
+            "short_name": "Zamora",
+            "country": "Venezuela"
+        }
+    },
+    "BOR": {
+        "5181": {
+            "full_name": "CA Boston River",
+            "short_name": "Boston River",
+            "country": "Uruguay"
+        }
+    },
+    "HUA": {
+        "5350": {
+            "full_name": "CSD Sport Huancayo",
+            "short_name": "Sport Huancayo",
+            "country": "Peru"
+        }
+    },
+    "ALI": {
+        "5680": {
+            "full_name": "Club Alianza Lima",
+            "short_name": "Alianza Lima",
+            "country": "Peru"
+        }
+    },
+    "null": {
+        "5682": {
+            "full_name": "FBC Melgar",
+            "short_name": "FBC Melgar",
+            "country": "Peru"
+        }
+    },
+    "RIV": {
+        "6667": {
+            "full_name": "CA River Plate",
+            "short_name": "River Plate",
+            "country": "Argentina"
+        }
+    },
+    "RAC": {
+        "6803": {
+            "full_name": "Racing Club",
+            "short_name": "Racing Club",
+            "country": "Argentina"
+        }
+    },
+    "IDL": {
+        "6989": {
+            "full_name": "CAR Independiente del Valle",
+            "short_name": "Independiente",
+            "country": "Ecuador"
+        }
+    },
+    "DIM": {
+        "7119": {
+            "full_name": "CD Independiente Medell\u00edn",
+            "short_name": "Independiente",
+            "country": "Colombia"
+        }
+    },
+    "PER": {
+        "8602": {
+            "full_name": "Deportivo Pereira",
+            "short_name": "Dep. Pereira",
+            "country": "Colombia"
+        }
+    },
+    "CDM": {
+        "8777": {
+            "full_name": "CD Maldonado",
+            "short_name": "CD Maldonado",
+            "country": "Uruguay"
+        }
+    },
+    "CDN": {
+        "9362": {
+            "full_name": "CD Nublense",
+            "short_name": "Nublense",
+            "country": "Chile"
+        }
+    },
+    "OLI": {
+        "9372": {
+            "full_name": "Olimpia Asuncion",
+            "short_name": "Olimpia",
+            "country": "Paraguay"
+        }
+    },
+    "CCP": {
+        "9373": {
+            "full_name": "Club Cerro Porte\u00f1o",
+            "short_name": "Cerro Porte\u00f1o",
+            "country": "Paraguay"
+        }
+    },
+    "UNI": {
+        "9377": {
+            "full_name": "Universidad Catolica",
+            "short_name": "Universidad Catolica",
+            "country": "Ecuador"
+        }
+    },
+    "CLA": {
+        "9379": {
+            "full_name": "Club Libertad Asuncion",
+            "short_name": "Libertad",
+            "country": "Paraguay"
+        }
+    },
+    "MAG": {
+        "10137": {
+            "full_name": "Magallanes",
+            "short_name": "Magallanes",
+            "country": "Chile"
+        }
+    }
+}

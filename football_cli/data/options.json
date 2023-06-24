@@ -1,0 +1,5 @@
+{
+    "groups": ["A", "B", "C", "D", "E", "F", "G", "H"],
+    "stages": ["PLAYOFFS", "GROUP_STAGE", "LAST_32", "LAST_16", "QUARTER_FINALS", "SEMI_FINALS", "THIRD_PLACE", "FINAL"],
+    "competition_codes": ["WC", "CL", "BL1", "DED", "BSA", "PD", "FL1", "ELC", "PPL", "EC", "SA", "PL", "CLI"]
+}

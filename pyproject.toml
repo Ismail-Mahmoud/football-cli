@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "football-cli"
+version = "1.0.0"
+description = "Get information about football competitions, teams and matches from your Terminal."
+requires-python = ">=3.10"
+authors = [{"name" = "Ismail El-Toukhy", email = "ismail325m@gmail.com"}]
+dependencies = [
+    "requests==2.31.0",
+    "rich-click==1.6.1",
+    "python-dotenv==1.0.0",
+    "pydantic==1.10.9",
+]
+
+[project.scripts]
+football = "football_cli.main:cli"
+football_gen = "football_cli.data_preparation:main"

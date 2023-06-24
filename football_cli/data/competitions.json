@@ -1,0 +1,376 @@
+{
+    "BSA": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "type": "LEAGUE",
+        "area": "Brazil",
+        "zones": [],
+        "position_colors": {}
+    },
+    "ELC": {
+        "id": 2016,
+        "code": "ELC",
+        "name": "Championship",
+        "type": "LEAGUE",
+        "area": "England",
+        "zones": [
+            {
+                "name": "Promotion",
+                "start_position": 1,
+                "end_position": 2,
+                "color": "blue"
+            },
+            {
+                "name": "Promotion play-offs",
+                "start_position": 3,
+                "end_position": 6,
+                "color": "yellow"
+            },
+            {
+                "name": "Relegation",
+                "start_position": 22,
+                "end_position": 24,
+                "color": "red"
+            }
+        ],
+        "position_colors": {
+            "1": "blue",
+            "2": "blue",
+            "3": "yellow",
+            "4": "yellow",
+            "5": "yellow",
+            "6": "yellow",
+            "22": "red",
+            "23": "red",
+            "24": "red"
+        }
+    },
+    "PL": {
+        "id": 2021,
+        "code": "PL",
+        "name": "Premier League",
+        "type": "LEAGUE",
+        "area": "England",
+        "zones": [
+            {
+                "name": "UEFA Champions League group stage",
+                "start_position": 1,
+                "end_position": 4,
+                "color": "blue"
+            },
+            {
+                "name": "UEFA Europa League group stage",
+                "start_position": 5,
+                "end_position": 6,
+                "color": "yellow"
+            },
+            {
+                "name": "UEFA Conference League qualifiers",
+                "start_position": 7,
+                "end_position": 7,
+                "color": "green"
+            },
+            {
+                "name": "Relegation",
+                "start_position": 18,
+                "end_position": 20,
+                "color": "red"
+            }
+        ],
+        "position_colors": {
+            "1": "blue",
+            "2": "blue",
+            "3": "blue",
+            "4": "blue",
+            "5": "yellow",
+            "6": "yellow",
+            "7": "green",
+            "18": "red",
+            "19": "red",
+            "20": "red"
+        }
+    },
+    "CL": {
+        "id": 2001,
+        "code": "CL",
+        "name": "UEFA Champions League",
+        "type": "CUP",
+        "area": "Europe",
+        "zones": [
+            {
+                "name": "Next round",
+                "start_position": 1,
+                "end_position": 2,
+                "color": "green"
+            },
+            {
+                "name": "Europa League round of 16 play-offs",
+                "start_position": 3,
+                "end_position": 3,
+                "color": "yellow"
+            }
+        ],
+        "position_colors": {
+            "1": "green",
+            "2": "green",
+            "3": "yellow"
+        }
+    },
+    "EC": {
+        "id": 2018,
+        "code": "EC",
+        "name": "European Championship",
+        "type": "CUP",
+        "area": "Europe",
+        "zones": [
+            {
+                "name": "Next round",
+                "start_position": 1,
+                "end_position": 2,
+                "color": "green"
+            }
+        ],
+        "position_colors": {
+            "1": "green",
+            "2": "green"
+        }
+    },
+    "FL1": {
+        "id": 2015,
+        "code": "FL1",
+        "name": "Ligue 1",
+        "type": "LEAGUE",
+        "area": "France",
+        "zones": [
+            {
+                "name": "UEFA Champions League group stage",
+                "start_position": 1,
+                "end_position": 2,
+                "color": "blue"
+            },
+            {
+                "name": "UEFA Champions League play-offs",
+                "start_position": 3,
+                "end_position": 3,
+                "color": "cyan"
+            },
+            {
+                "name": "UEFA Europa League group stage",
+                "start_position": 4,
+                "end_position": 4,
+                "color": "yellow"
+            },
+            {
+                "name": "UEFA Conference League qualifiers",
+                "start_position": 5,
+                "end_position": 5,
+                "color": "green"
+            },
+            {
+                "name": "Relegation",
+                "start_position": 17,
+                "end_position": 20,
+                "color": "red"
+            }
+        ],
+        "position_colors": {
+            "1": "blue",
+            "2": "blue",
+            "3": "cyan",
+            "4": "yellow",
+            "5": "green",
+            "17": "red",
+            "18": "red",
+            "19": "red",
+            "20": "red"
+        }
+    },
+    "BL1": {
+        "id": 2002,
+        "code": "BL1",
+        "name": "Bundesliga",
+        "type": "LEAGUE",
+        "area": "Germany",
+        "zones": [
+            {
+                "name": "UEFA Champions League group stage",
+                "start_position": 1,
+                "end_position": 4,
+                "color": "blue"
+            },
+            {
+                "name": "UEFA Europa League group stage",
+                "start_position": 5,
+                "end_position": 6,
+                "color": "yellow"
+            },
+            {
+                "name": "UEFA Conference League qualifiers",
+                "start_position": 7,
+                "end_position": 7,
+                "color": "green"
+            },
+            {
+                "name": "Relegation play-offs",
+                "start_position": 16,
+                "end_position": 16,
+                "color": "magenta"
+            },
+            {
+                "name": "Relegation",
+                "start_position": 17,
+                "end_position": 18,
+                "color": "red"
+            }
+        ],
+        "position_colors": {
+            "1": "blue",
+            "2": "blue",
+            "3": "blue",
+            "4": "blue",
+            "5": "yellow",
+            "6": "yellow",
+            "7": "green",
+            "16": "magenta",
+            "17": "red",
+            "18": "red"
+        }
+    },
+    "SA": {
+        "id": 2019,
+        "code": "SA",
+        "name": "Serie A",
+        "type": "LEAGUE",
+        "area": "Italy",
+        "zones": [
+            {
+                "name": "UEFA Champions League group stage",
+                "start_position": 1,
+                "end_position": 4,
+                "color": "blue"
+            },
+            {
+                "name": "UEFA Europa League group stage",
+                "start_position": 5,
+                "end_position": 6,
+                "color": "yellow"
+            },
+            {
+                "name": "UEFA Conference League qualifiers",
+                "start_position": 7,
+                "end_position": 7,
+                "color": "green"
+            },
+            {
+                "name": "Relegation",
+                "start_position": 18,
+                "end_position": 20,
+                "color": "red"
+            }
+        ],
+        "position_colors": {
+            "1": "blue",
+            "2": "blue",
+            "3": "blue",
+            "4": "blue",
+            "5": "yellow",
+            "6": "yellow",
+            "7": "green",
+            "18": "red",
+            "19": "red",
+            "20": "red"
+        }
+    },
+    "DED": {
+        "id": 2003,
+        "code": "DED",
+        "name": "Eredivisie",
+        "type": "LEAGUE",
+        "area": "Netherlands",
+        "zones": [],
+        "position_colors": {}
+    },
+    "PPL": {
+        "id": 2017,
+        "code": "PPL",
+        "name": "Primeira Liga",
+        "type": "LEAGUE",
+        "area": "Portugal",
+        "zones": [],
+        "position_colors": {}
+    },
+    "CLI": {
+        "id": 2152,
+        "code": "CLI",
+        "name": "Copa Libertadores",
+        "type": "CUP",
+        "area": "South America",
+        "zones": [],
+        "position_colors": {}
+    },
+    "PD": {
+        "id": 2014,
+        "code": "PD",
+        "name": "Primera Division",
+        "type": "LEAGUE",
+        "area": "Spain",
+        "zones": [
+            {
+                "name": "UEFA Champions League group stage",
+                "start_position": 1,
+                "end_position": 4,
+                "color": "blue"
+            },
+            {
+                "name": "UEFA Europa League group stage",
+                "start_position": 5,
+                "end_position": 6,
+                "color": "yellow"
+            },
+            {
+                "name": "UEFA Conference League qualifiers",
+                "start_position": 7,
+                "end_position": 7,
+                "color": "green"
+            },
+            {
+                "name": "Relegation",
+                "start_position": 18,
+                "end_position": 20,
+                "color": "red"
+            }
+        ],
+        "position_colors": {
+            "1": "blue",
+            "2": "blue",
+            "3": "blue",
+            "4": "blue",
+            "5": "yellow",
+            "6": "yellow",
+            "7": "green",
+            "18": "red",
+            "19": "red",
+            "20": "red"
+        }
+    },
+    "WC": {
+        "id": 2000,
+        "code": "WC",
+        "name": "FIFA World Cup",
+        "type": "CUP",
+        "area": "World",
+        "zones": [
+            {
+                "name": "Next round",
+                "start_position": 1,
+                "end_position": 2,
+                "color": "green"
+            }
+        ],
+        "position_colors": {
+            "1": "green",
+            "2": "green"
+        }
+    }
+}
