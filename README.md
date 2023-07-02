@@ -33,7 +33,7 @@ In addition to API key, there are extra few environment variables to set in [.en
 
 
 ## 2. Shell completion
-This is an optional step where can enable shell completion to get suggestions for commands and options when pressing `tab` as you're typing.
+This is an optional step where you enable shell completion to get suggestions for commands and options when pressing `tab` as you're typing.
 
 To get completion enabled, run the following script with your shell name:
 ```bash
@@ -100,7 +100,7 @@ football team <ID>
 ```bash
 football team <ID> matches [OPTIONS]
 ```
-#### Show help;
+#### Show help:
 ```bash
 football team --help
 ```
